@@ -9,6 +9,6 @@ If you want to display a character or movie from disney of your own choice, you 
 
 <strong>BONUS! Click on 'The Full Experience' to play the theme song while you explore gifs. Enjoy!</strong>
 
-!(GIPHY Screenshot)[https://github.com/vidhi27/GifTastic/blob/master/assets/images/readme1.png]
+![GIPHY Screenshot](https://github.com/vidhi27/GifTastic/blob/master/assets/images/readme1.png)
 
-!(GIPHY Screenshot)[https://github.com/vidhi27/GifTastic/blob/master/assets/images/readme2.png]
+![GIPHY Screenshot](https://github.com/vidhi27/GifTastic/blob/master/assets/images/readme2.png)
