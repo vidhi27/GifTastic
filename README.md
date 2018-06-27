@@ -1,4 +1,4 @@
-<strong>GifTastic</strong>
+<h1><strong>GifTastic</strong></h1>
 
 This is an assignment that focuses primarily on APIs and AJAX.
 In this assignment, we used GIPHY API to make a dynamic web page that populates with gifs on a topic of our choice.
