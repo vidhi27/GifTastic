@@ -7,6 +7,8 @@ I chose 'Disney' as my topic. The webpage will automatically load a number of al
 
 If you want to display a character or movie from disney of your own choice, you can simply make your own button by inputing the name in the input panel on the right. The button will display within the array of buttons.
 
+Click here to view the webpage: https://vidhi27.github.io/GifTastic/
+
 <strong>BONUS! Click on 'The Full Experience' to play the theme song while you explore gifs. Enjoy!</strong>
 
 ![GIPHY Screenshot](https://github.com/vidhi27/GifTastic/blob/master/assets/images/readme1.png)
